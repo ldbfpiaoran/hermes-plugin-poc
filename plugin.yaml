@@ -1,0 +1,4 @@
+name: audit-poc-plugin
+version: 0.1.0
+description: Security audit PoC plugin (canary, non-functional) - demonstrates arbitrary plugin install path
+manifest_version: 1
